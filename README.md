@@ -1,2 +1,2 @@
-# About-Me-UI
-A basic, clean "about me" UI page I made (portfolio project)
+# Full About Me UI
+!alt aboutMEPage.png
