@@ -1,0 +1,73 @@
+html {
+   background-color: rgb(250, 252, 211);
+}
+
+.main-element {
+    position: absolute;
+    margin-left: 22%;
+    margin-top: 6%;
+    height: 450px;
+    width: 720px;
+    border-radius: 7px 7px 7px 7px ;
+    background-color: rgb(252, 252, 182); 
+    box-shadow: 10px 10px 10px 5px rgb(199, 199, 145);
+}
+
+.billGates {
+    height: 165px;
+    width: 165px;
+    border-radius: 50%;
+    box-shadow: 5px 5px 5px 5px rgb(179, 179, 126);
+    position: absolute;
+    margin-left: 37%;
+    margin-top: 2%;
+}
+
+.main-title {
+    position: absolute;
+    margin-left: 41.7%;
+    margin-top: 20%;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 6px 6px 5px rgb(179, 179, 126);
+}
+
+.sub-title {
+    position: absolute;
+    margin-left: 43.2%;
+    margin-top: 23.5%;
+    font-size: 21px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 6px 6px 5px rgb(179, 179, 126);
+    color: rgb(99, 99, 69);
+}
+
+.paragraph-text {
+    position: absolute;
+    margin-left: 2.8%;
+    margin-top: 38%;
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(70, 70, 67);
+    overflow: hidden;
+}
+
+.learn-more {
+    position: absolute;
+    margin-left: 40.9%;
+    margin-top: 34.5%;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 6px 6px 6px rgb(223, 223, 183);
+    color: rgb(0, 0, 0);
+    border: none;
+    background-color: rgb(252, 252, 182); 
+    box-shadow: 7px 7px 7px 4px rgb(199, 199, 145);
+    border-radius: 6px 6px 6px;
+    transition-duration: 0.7s;
+}
+
+.learn-more:hover {
+    background-color: rgb(252, 252, 208);
+    margin-top: 33.8%;
+}
